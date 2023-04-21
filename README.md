@@ -1,8 +1,8 @@
 #NIST Hostel management System
-- The Admin Dashboard for Nist Hostel management system is a mobile application made using Flutter.
+- The Admin Dashboard for Nist Hostel management system is a web application made using Flutter.
 - The system manages two hostels, Hall of Residence 1 (HR-1) and Hall of Residence 2 (HR-2).
 - The Admin Dashboard provides an easy-to-use interface for the admin to manage the hostels and their residents.
-- The admin can add, view, and delete student details, including their personal information and room assignments.
+- The admin can add, view, and delete student details, including their personal information and room details.
 - The admin can also manage room details, including occupancy and maintenance status.
 - The system allows students to file complaints, which the admin can view and address as needed.
 - The admin can send notifications to all residents or to specific individuals or groups.
